@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhuyen26&count_private=true&show_icons=true&theme=gruvbox )](https://github.com/phamhuyen26/github-readme-stats)
 
 <!--This is my activity in the week-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phamhuyen26&show_icons=true&theme=gruvbox)](https://github.com/phamhuyen26/github-readme-stats)
+[![phamhuyen26's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phamhuyen26&show_icons=true&theme=gruvbox)](https://github.com/phamhuyen26/github-readme-stats)
 
 <!-- This is all language I used -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamhuyen26&layout=compact&show_icons=true&theme=gruvbox)](https://github.com/phamhuyen26/github-readme-stats)
