@@ -19,7 +19,9 @@
 </a>
 <br>
 <!-- This is my stats github -->
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phamhuyen26&count_private=true&show_icons=true&theme=gruvbox )](https://github.com/phamhuyen26/github-readme-stats)![gif-as-profile-picture-7](https://user-images.githubusercontent.com/63934549/154801254-fb676d3e-02fe-47f5-b7d8-40269668ad1a.gif)
+</div>
 
 <!--This is my activity in the week-->
 [![phamhuyen26's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phamhuyen26&show_icons=true&theme=gruvbox)](https://github.com/phamhuyen26/github-readme-stats)
