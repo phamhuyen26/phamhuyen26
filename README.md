@@ -68,8 +68,8 @@ I like coding, reading,discovering and travelling.🛩
 <!-- This is my stats github -->
 
 <!--This is my activity of the week-->
-## This is my activity of the week 🏃‍♀️
-[![phamhuyen26's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phamhuyen26&show_icons=true&theme=gruvbox)](https://github.com/phamhuyen26/github-readme-stats)
+<!-- ## This is my activity of the week 🏃‍♀️
+[![phamhuyen26's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phamhuyen26&show_icons=true&theme=gruvbox)](https://github.com/phamhuyen26/github-readme-stats) -->
 
 <!-- This is all language I used -->
  ## This is all language I used 💘
